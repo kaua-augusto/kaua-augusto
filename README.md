@@ -4,7 +4,7 @@
 
 ### Olá, eu sou o Kauã 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech** e de **Eletrônica** na **ETEC Jorge Street**.<br/>
+Estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech** e **Técnico em Eletrônica** pela **ETEC Jorge Street**.<br/>
 Gosto de projetos que juntam **hardware e software**: do sensor no Arduino até o dashboard no navegador.
 
 <a href="https://www.linkedin.com/in/kaua-augusto-05186343a/"><img src="https://img.shields.io/badge/LinkedIn-Kauã%20Augusto-02d7f2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0816" alt="LinkedIn" /></a>
@@ -16,10 +16,10 @@ Gosto de projetos que juntam **hardware e software**: do sensor no Arduino até 
 
 ### `> whoami`
 
-- 🎓 1º semestre de **Análise e Desenvolvimento de Sistemas** na SPTech (São Paulo Tech School)
-- ⚡ Curso de **Eletrônica** na ETEC Jorge Street: circuitos, componentes e microcontroladores
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na SPTech (São Paulo Tech School), 2026 – 2028
+- ⚡ **Técnico em Eletrônica** pela ETEC Jorge Street (concluído em 2025): circuitos analógicos e digitais, instrumentação e microcontroladores
 - 🌐 Desenvolvo aplicações web **full stack**: front-end em HTML, CSS e JavaScript, API em Node.js + Express e banco MySQL
-- 🔌 Programo **Arduino** (C/C++) para captar dados de sensores e enviá-los para a aplicação
+- 🔌 Desenvolvimento de **sistemas embarcados com Arduino (C/C++)**: aquisição de dados de sensores, comunicação serial e integração com APIs e banco de dados
 - 🎯 Em busca de **estágio** em desenvolvimento de software, IoT ou dados
 - 📍 Santo André, SP
 
