@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./banner.jpg" alt="Kauã Augusto: Análise e Desenvolvimento de Sistemas na SPTech" width="100%" />
+<img src="./banner.jpg" alt="Kauã Augusto: Systems Analysis and Development at SPTech" width="100%" />
 
-### Olá, eu sou o Kauã 👋
+### Hi, I'm Kauã 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech** e **Técnico em Eletrônica** pela **ETEC Jorge Street**.<br/>
-Gosto de projetos que juntam **hardware e software**: do sensor no Arduino até o dashboard no navegador.
+**Systems Analysis and Development** student at **SPTech** and **Electronics Technician** from **ETEC Jorge Street**.<br/>
+I build projects that bring **hardware and software** together: from the sensor on an Arduino to the dashboard in the browser.
 
-<a href="https://www.linkedin.com/in/kaua-augusto-05186343a/"><img src="https://img.shields.io/badge/LinkedIn-Kauã%20Augusto-02d7f2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0816" alt="LinkedIn" /></a>
-<a href="mailto:kaua.aguas@sptech.school"><img src="https://img.shields.io/badge/E--mail-kaua.aguas%40sptech.school-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0816" alt="E-mail" /></a>
+<a href="https://www.linkedin.com/in/kau%C3%A3-augusto-05186343a/"><img src="https://img.shields.io/badge/LinkedIn-Kauã%20Augusto-02d7f2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0816" alt="LinkedIn" /></a>
+<a href="mailto:augustokaua343@gmail.com"><img src="https://img.shields.io/badge/Email-augustokaua343%40gmail.com-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0816" alt="Email" /></a>
 
 </div>
 
@@ -16,12 +16,11 @@ Gosto de projetos que juntam **hardware e software**: do sensor no Arduino até 
 
 ### `> whoami`
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na SPTech (São Paulo Tech School), 2026 – 2028
-- ⚡ **Técnico em Eletrônica** pela ETEC Jorge Street (concluído em 2025): circuitos analógicos e digitais, instrumentação e microcontroladores
-- 🌐 Desenvolvo aplicações web **full stack**: front-end em HTML, CSS e JavaScript, API em Node.js + Express e banco MySQL
-- 🔌 Desenvolvimento de **sistemas embarcados com Arduino (C/C++)**: aquisição de dados de sensores, comunicação serial e integração com APIs e banco de dados
-- 🎯 Em busca de **estágio** em desenvolvimento de software, IoT ou dados
-- 📍 Santo André, SP
+- 🎓 **Systems Analysis and Development** at SPTech (São Paulo Tech School), 2026 – 2028
+- ⚡ **Electronics Technician**, ETEC Jorge Street (2025): analog and digital circuits, instrumentation and microcontrollers
+- 🌐 **Full stack web development**: HTML, CSS and JavaScript on the front end, REST APIs with Node.js + Express, MySQL databases
+- 🔌 **Embedded systems with Arduino (C/C++)**: sensor data acquisition, serial communication and integration with APIs and databases
+- 📍 Santo André, SP, Brazil
 
 ### `> stack --list`
 
@@ -47,20 +46,20 @@ Gosto de projetos que juntam **hardware e software**: do sensor no Arduino até 
 <img src="https://img.shields.io/badge/MySQL%20Workbench-0b0816?style=for-the-badge&logo=mysql&logoColor=fcee0a" alt="MySQL Workbench" />
 </p>
 
-### `> ls ./projetos`
+### `> ls ./projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### ⚡ [Edgerunning](https://github.com/kaua-augusto/Projeto-Individual)
-**Projeto individual · SPTech**
+**Individual project · SPTech**
 
-Rastreador de 100% para Cyberpunk 2077: o jogador registra conquistas, missões e horas jogadas, e o dashboard calcula o percentual de conclusão, o que falta e a evolução mês a mês.
+A Cyberpunk 2077 completion tracker: players record achievements, missions and hours played, and the dashboard calculates completion percentage, what is left to reach 100% and monthly progress.
 
-- API REST em **Node.js + Express** no padrão routes → controllers → models
-- Banco **MySQL** com views e script idempotente
-- Gráficos com **Chart.js**, login/cadastro e modo demo sem servidor
+- REST API with **Node.js + Express** following a routes → controllers → models structure
+- **MySQL** database with views and an idempotent setup script
+- Charts with **Chart.js**, sign-up/login and a serverless demo mode
 
 `JavaScript` `Node.js` `Express` `MySQL` `Chart.js`
 
@@ -68,13 +67,13 @@ Rastreador de 100% para Cyberpunk 2077: o jogador registra conquistas, missões 
 <td width="50%" valign="top">
 
 #### 🧀 [Blue Cheese Solutions](https://github.com/1S-Blue-Cheese-Solutions/monitoramento-de-temperatura-e-umidade-do-ar)
-**Projeto em grupo · SPTech**
+**Team project · SPTech**
 
-Monitoramento de temperatura e umidade do ar em câmaras de maturação de queijos azuis, do sensor até o dashboard.
+IoT monitoring of air temperature and humidity in blue cheese ripening chambers, from the sensor to the dashboard.
 
-- **Arduino UNO + sensor DHT11** enviando leituras pela serial
-- API em **Node.js** (serialport) gravando as medições no **MySQL**
-- Site institucional com login, cadastro de locais e dashboards em tempo real
+- **Arduino UNO + DHT11 sensor** streaming readings over serial
+- **Node.js** API (serialport) storing measurements in **MySQL**
+- Company website with login, location management and real-time dashboards
 
 `Arduino` `C++` `Node.js` `MySQL` `HTML/CSS/JS`
 
@@ -84,6 +83,6 @@ Monitoramento de temperatura e umidade do ar em câmaras de maturação de queij
 
 <div align="center">
 
-<sub>`> status: online_` · sempre aprendendo algo novo</sub>
+<sub>`> status: online_` · always learning something new</sub>
 
 </div>
